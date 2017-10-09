@@ -7,11 +7,24 @@ line-height: 94px;
 text-align: Center;
 }
 
-p{
+h2{
+margin-left: 320px;
+margin-right: 320px;
 margin-top: -80px;
 font-family: brown;
 font-style: thin;
 font-size: 24px;
+line-height: 30px;
+text-align: center;
+}
+
+p{
+margin-left: 35px;
+margin-right: 35px;
+margin-top: -5px;
+font-family: brown;
+font-style: thin;
+font-size: 14px;
 line-height: 30px;
 text-align: left;
 }
@@ -22,12 +35,13 @@ font-style: regular;
 font-size: 24px;
 line-height: 60px;
 text-align: Center;
-height:150px;
+height:145px;
 width:380px;
-background: black;
+background: #D3D3D3;
 position: absolute;
 top:380px;
-left:20px;
+left:100px;
+border-radius: 15px;
 }
 
 .link2{
@@ -36,12 +50,13 @@ font-style: regular;
 font-size: 24px;
 line-height: 60px;
 text-align: Center;
-height:150px;
+height:145px;
 width:380px;
-background: grey;
+background: #D3D3D3;
 position: absolute;
 top:530px;
-left:20px;
+left:100px;
+border-radius: 15px;
 }
 
 .link3{
@@ -50,12 +65,13 @@ font-style: regular;
 font-size: 24px;
 line-height: 60px;
 text-align: Center;
-height:150px;
+height:145px;
 width:380px;
-background: purple;
+background: #D3D3D3;
 position: absolute;
 top:680px;
-left:20px;
+left:100px;
+border-radius: 15px;
 }
 
 .link4{
@@ -64,10 +80,11 @@ font-style: regular;
 font-size: 24px;
 line-height: 60px;
 text-align: Center;
-height:150px;
+height:145px;
 width:380px;
-background: pink;
+background: #D3D3D3;
 position: absolute;
 top:830px;
-left:20px;
+left:100px;
+border-radius: 15px;
 }
